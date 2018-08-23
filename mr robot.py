@@ -1,2 +1,2 @@
 print("hello friend")
-print("i am using python friend")
+print("i am using python friend and its awesome")
